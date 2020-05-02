@@ -1,0 +1,4 @@
+#Sat May 02 13:21:45 WIB 2020
+base.0=/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

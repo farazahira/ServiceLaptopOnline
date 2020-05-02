@@ -1,0 +1,435 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:12:5-79
+12-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:12:22-76
+13
+14    <uses-feature
+14-->[com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:26:5-28:35
+15        android:glEsVersion="0x00020000"
+15-->[com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:27:9-41
+16        android:required="true" />
+16-->[com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:28:9-32
+17
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:25:5-68
+18-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:25:22-65
+19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+19-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:26:5-110
+19-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:26:22-107
+20    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+20-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:26:5-82
+20-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:26:22-79
+21
+22    <permission
+22-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:28:5-30:47
+23        android:name="id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline.permission.C2D_MESSAGE"
+23-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:29:9-63
+24        android:protectionLevel="signature" />
+24-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:30:9-44
+25
+26    <uses-permission android:name="id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline.permission.C2D_MESSAGE" />
+26-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:32:5-79
+26-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:32:22-76
+27
+28    <application
+28-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:7:5-41:19
+29        android:allowBackup="true"
+29-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:8:9-35
+30        android:debuggable="true"
+31        android:icon="@mipmap/ic_icon_app"
+31-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:9:9-43
+32        android:label="@string/app_name"
+32-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:10:9-41
+33        android:roundIcon="@mipmap/ic_icon_app_round"
+33-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:11:9-54
+34        android:supportsRtl="true"
+34-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:12:9-35
+35        android:testOnly="true"
+36        android:theme="@style/AppTheme" >
+36-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:13:9-40
+37        <activity
+37-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:14:9-22:20
+38            android:name="com.company.servicelaptoponline.GuideActivity"
+38-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:15:13-42
+39            android:theme="@style/AppTheme.NoActionBar" >
+39-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:16:13-56
+40            <intent-filter>
+40-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:17:13-21:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:18:17-69
+41-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:18:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:20:17-77
+43-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:20:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:23:9-26:59
+47            android:name="com.company.servicelaptoponline.CenterActivity"
+47-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:24:13-43
+48            android:label="Service Center"
+48-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:25:13-43
+49            android:parentActivityName="com.company.servicelaptoponline.GuideActivity" />
+49-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:26:13-56
+50        <activity
+50-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:27:9-30:59
+51            android:name="com.company.servicelaptoponline.ArticleActivity"
+51-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:28:13-44
+52            android:label="Masalah Laptop"
+52-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:29:13-43
+53            android:parentActivityName="com.company.servicelaptoponline.GuideActivity" />
+53-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:30:13-56
+54        <activity
+54-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:31:9-34:50
+55            android:name="com.company.servicelaptoponline.DetailCenter"
+55-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:32:13-41
+56            android:parentActivityName="com.company.servicelaptoponline.CenterActivity"
+56-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:33:13-57
+57            android:theme="@style/NoActionBar" />
+57-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:34:13-47
+58        <activity
+58-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:35:9-37:44
+59            android:name="com.company.servicelaptoponline.MainActivity"
+59-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:36:13-41
+60            android:theme="@style/Guide" />
+60-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:37:13-41
+61        <activity
+61-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:38:9-40:61
+62            android:name="com.company.servicelaptoponline.DetailArticle"
+62-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:39:13-42
+63            android:parentActivityName="com.company.servicelaptoponline.ArticleActivity" />
+63-->/Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:40:13-58
+64
+65        <meta-data
+65-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:16:9-18:69
+66            android:name="com.google.android.gms.version"
+66-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:17:13-58
+67            android:value="@integer/google_play_services_version" />
+67-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:18:13-66
+68        <meta-data
+68-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:19:9-21:63
+69            android:name="com.facebook.sdk.ApplicationId"
+69-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:20:13-58
+70            android:value="@string/facebook_application_id" />
+70-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:21:13-60
+71        <meta-data
+71-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:22:9-24:36
+72            android:name="com.facebook.sdk.AutoLogAppEventsEnabled"
+72-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:23:13-68
+73            android:value="true" />
+73-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:24:13-33
+74
+75        <activity
+75-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:26:9-30:61
+76            android:name="com.firebase.ui.auth.KickoffActivity"
+76-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:27:13-64
+77            android:exported="false"
+77-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:28:13-37
+78            android:label=""
+78-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:29:13-29
+79            android:theme="@style/FirebaseUI.Transparent" />
+79-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:30:13-58
+80        <activity
+80-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:31:9-34:75
+81            android:name="com.firebase.ui.auth.ui.email.RecoverPasswordActivity"
+81-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:32:13-81
+82            android:exported="false"
+82-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:33:13-37
+83            android:label="@string/fui_title_recover_password_activity" />
+83-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:34:13-72
+84        <activity
+84-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:35:9-38:59
+85            android:name="com.firebase.ui.auth.ui.email.RegisterEmailActivity"
+85-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:36:13-79
+86            android:exported="false"
+86-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:37:13-37
+87            android:label="@string/fui_sign_in_default" />
+87-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:38:13-56
+88        <activity
+88-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:39:9-43:64
+89            android:name="com.firebase.ui.auth.ui.phone.PhoneVerificationActivity"
+89-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:40:13-83
+90            android:exported="false"
+90-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:41:13-37
+91            android:label="@string/fui_sign_in_with_phone_number"
+91-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:42:13-66
+92            android:windowSoftInputMode="stateAlwaysVisible" />
+92-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:43:13-61
+93        <activity
+93-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:44:9-47:73
+94            android:name="com.firebase.ui.auth.ui.accountlink.WelcomeBackIdpPrompt"
+94-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:45:13-84
+95            android:exported="false"
+95-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:46:13-37
+96            android:label="@string/fui_title_welcome_back_idp_prompt" />
+96-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:47:13-70
+97        <activity
+97-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:48:9-51:78
+98            android:name="com.firebase.ui.auth.ui.accountlink.WelcomeBackPasswordPrompt"
+98-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:49:13-89
+99            android:exported="false"
+99-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:50:13-37
+100            android:label="@string/fui_title_welcome_back_password_prompt" />
+100-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:51:13-75
+101        <activity
+101-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:52:9-55:65
+102            android:name="com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity"
+102-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:53:13-80
+103            android:exported="false"
+103-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:54:13-37
+104            android:label="@string/fui_default_toolbar_title" />
+104-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:55:13-62
+105        <activity
+105-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:56:9-60:48
+106            android:name="com.facebook.FacebookActivity"
+106-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:57:13-57
+107            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+107-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:58:13-96
+108            android:label="@string/app_name"
+108-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:59:13-45
+109            android:theme="@style/com_facebook_activity_theme" />
+109-->[com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:32:13-63
+110        <activity
+110-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:61:9-73:20
+111            android:name="com.facebook.CustomTabActivity"
+111-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:62:13-58
+112            android:exported="true" >
+112-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:63:13-36
+113            <intent-filter>
+113-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:65:13-72:29
+114                <action android:name="android.intent.action.VIEW" />
+114-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:66:17-69
+114-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:66:25-66
+115
+116                <category android:name="android.intent.category.DEFAULT" />
+116-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:68:17-76
+116-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:68:27-73
+117                <category android:name="android.intent.category.BROWSABLE" />
+117-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:69:17-78
+117-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:69:27-75
+118
+119                <data android:scheme="@string/facebook_login_protocol_scheme" />
+119-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:71:17-81
+119-->[com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:71:23-78
+120            </intent-filter>
+121        </activity>
+122
+123        <meta-data
+123-->[com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:26:9-28:38
+124            android:name="android.support.VERSION"
+124-->[com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:27:13-51
+125            android:value="26.1.0" />
+125-->[com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:28:13-35
+126
+127        <activity android:name="com.facebook.CustomTabMainActivity" />
+127-->[com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:33:9-71
+127-->[com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:33:19-68
+128        <activity
+128-->[com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:23:9-29:75
+129            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+129-->[com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:24:13-85
+130            android:excludeFromRecents="true"
+130-->[com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:25:13-46
+131            android:exported="true"
+131-->[com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:26:13-36
+132            android:launchMode="singleInstance"
+132-->[com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:27:13-48
+133            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+133-->[com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:28:13-102
+134            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+134-->[com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:29:13-72
+135        <activity
+135-->[com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:23:9-27:75
+136            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+136-->[com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:24:13-93
+137            android:excludeFromRecents="true"
+137-->[com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:25:13-46
+138            android:exported="false"
+138-->[com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:26:13-37
+139            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+139-->[com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:27:13-72
+140        <!--
+141            Service handling Google Sign-In user revocation. For apps that do not integrate with
+142            Google Sign-In, this service will never be started.
+143        -->
+144        <service
+144-->[com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:33:9-36:110
+145            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+145-->[com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:34:13-89
+146            android:exported="true"
+146-->[com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:35:13-36
+147            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+147-->[com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:36:13-107
+148
+149        <receiver
+149-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:29:9-33:20
+150            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+150-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:30:13-85
+151            android:enabled="true"
+151-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:31:13-35
+152            android:exported="false" >
+152-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:32:13-37
+153        </receiver>
+154        <receiver
+154-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:34:9-42:20
+155            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+155-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:35:13-100
+156            android:enabled="true"
+156-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:36:13-35
+157            android:exported="true"
+157-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:37:13-36
+158            android:permission="android.permission.INSTALL_PACKAGES" >
+158-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:38:13-69
+159            <intent-filter>
+159-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:39:13-41:29
+160                <action android:name="com.android.vending.INSTALL_REFERRER" />
+160-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:40:17-79
+160-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:40:25-76
+161            </intent-filter>
+162        </receiver>
+163
+164        <service
+164-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:44:9-47:40
+165            android:name="com.google.android.gms.measurement.AppMeasurementService"
+165-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:45:13-84
+166            android:enabled="true"
+166-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:46:13-35
+167            android:exported="false" />
+167-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:47:13-37
+168        <service
+168-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:48:9-52:72
+169            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+169-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:49:13-87
+170            android:enabled="true"
+170-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:50:13-35
+171            android:exported="false"
+171-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:51:13-37
+172            android:permission="android.permission.BIND_JOB_SERVICE" />
+172-->[com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:52:13-69
+173        <service android:name="com.google.firebase.components.ComponentDiscoveryService" >
+173-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:35:9-39:19
+173-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:35:18-89
+174            <meta-data
+174-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:36:13-38:85
+175                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+175-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:37:17-96
+176                android:value="com.google.firebase.components.ComponentRegistrar" />
+176-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:38:17-82
+177        </service>
+178
+179        <receiver
+179-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:41:9-50:20
+180            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+180-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:42:13-78
+181            android:exported="true"
+181-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:43:13-36
+182            android:permission="com.google.android.c2dm.permission.SEND" >
+182-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:44:13-73
+183            <intent-filter>
+183-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:45:13-49:29
+184                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+184-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:46:17-81
+184-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:46:25-78
+185
+186                <category android:name="id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline" />
+186-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:48:17-61
+186-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:48:27-58
+187            </intent-filter>
+188        </receiver>
+189        <!--
+190             FirebaseInstanceIdService performs security checks at runtime,
+191             no need for explicit permissions despite exported="true"
+192        -->
+193        <service
+193-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:56:9-62:19
+194            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+194-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:57:13-77
+195            android:exported="true" >
+195-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:58:13-36
+196            <intent-filter android:priority="-500" >
+196-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:59:13-61:29
+196-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:59:28-51
+197                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+197-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:60:17-80
+197-->[com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:60:25-77
+198            </intent-filter>
+199        </service>
+200
+201        <provider
+201-->[com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:8:9-12:39
+202            android:name="com.google.firebase.provider.FirebaseInitProvider"
+202-->[com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:9:13-77
+203            android:authorities="id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline.firebaseinitprovider"
+203-->[com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:10:13-72
+204            android:exported="false"
+204-->[com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:11:13-37
+205            android:initOrder="100" />
+205-->[com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:12:13-36
+206
+207        <activity
+207-->[com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:23:9-26:75
+208            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+208-->[com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:24:13-79
+209            android:exported="false"
+209-->[com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:25:13-37
+210            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+210-->[com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:26:13-72
+211
+212        <provider
+212-->[android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:25:9-29:43
+213            android:name="android.arch.lifecycle.LifecycleRuntimeTrojanProvider"
+213-->[android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:26:13-81
+214            android:authorities="id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline.lifecycle-trojan"
+214-->[android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:27:13-68
+215            android:exported="false"
+215-->[android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:28:13-37
+216            android:multiprocess="true" />
+216-->[android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:29:13-40
+217        <!--
+218         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+219         with the application context. This config is merged in with the host app's manifest,
+220         but there can only be one provider with the same authority activated at any given
+221         point; so if the end user has two or more different apps that use Facebook SDK, only the
+222         first one will be able to use the provider. To work around this problem, we use the
+223         following placeholder in the authority to identify each host application as if it was
+224         a completely different provider.
+225        -->
+226        <provider
+226-->[com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:39:9-42:40
+227            android:name="com.facebook.internal.FacebookInitProvider"
+227-->[com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:40:13-70
+228            android:authorities="id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline.FacebookInitProvider"
+228-->[com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:41:13-72
+229            android:exported="false" />
+229-->[com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:42:13-37
+230
+231        <meta-data
+231-->[android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+232            android:name="android.arch.lifecycle.VERSION"
+232-->[android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:26:13-58
+233            android:value="27.0.0-SNAPSHOT" />
+233-->[android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:27:13-44
+234        <meta-data
+234-->[android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:25:9-27:47
+235            android:name="android.arch.core.VERSION"
+235-->[android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:26:13-53
+236            android:value="27.0.0-SNAPSHOT" />
+236-->[android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:27:13-44
+237    </application>
+238
+239</manifest>

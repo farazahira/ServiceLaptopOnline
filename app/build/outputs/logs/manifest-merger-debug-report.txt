@@ -1,0 +1,757 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:2:1-76:12
+MERGED from [com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/4db0675965bfad18d93cc02b6adcf865/facebook-android-sdk-4.27.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d9e5cf6db436a7440d7a96e2fcf5b7f7/facebook-login-4.27.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a7c16c529decb2f78b8eb2fe1573c81c/facebook-share-4.27.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e82e2b33e0616469edfbed04c78db044/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b49898c833129a7cfa7333f0819574a2/constraint-layout-1.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebaseui:firebase-ui-firestore:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/7afa59ec7cbc60649296b73137476e09/firebase-ui-firestore-3.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.firebaseui:firebase-ui-common:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/0966b9da031826ad5b636a572ff7f2d5/firebase-ui-common-3.0.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c43fb67ea803a6a85a66a6ccce3e0d18/recyclerview-v7-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/69b9a8312bd8454efcdb64a33cee62cd/cardview-v7-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-firestore:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/bc7ed9f6d08bb1a36dfcea33f5420fcf/firebase-firestore-15.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/ab9e9d61574727df73f17c00ec5442d9/firebase-core-15.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-storage:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b33044fc462edadd4a1a0aa22ac1ea90/firebase-storage-15.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-config:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/caa6776aea800a439f91489869cec0cd/firebase-config-15.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:transition:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/53f4c7909703aed8e0305608a197d5ee/transition-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-abt:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/3c59d0a871ba4ad709654d0bba51fbc2/firebase-abt-15.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/002f2b3e46f352304e9f33c297c01e5e/play-services-flags-15.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/faaa27b013dad0b53404af4a5fec8fd6/play-services-phenotype-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/e59c6af65949c601e9fb2d04a5b131db/play-services-auth-api-phone-15.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/3b99c6c7c1a703e6ca6c5eacf6ff4922/play-services-auth-base-15.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/33916de4fccdefcfbdbc190dc7bf9e3c/firebase-iid-interop-15.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/dd38a6677c4d57dff41faee99b5e69c9/play-services-tasks-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/913dc22c762c21ebf9a1094d182a367d/firebase-database-collection-15.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/fc4da4fb5c4cff907291d3cdf2e3799a/firebase-storage-common-15.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/11a5134e901709b7e685c876fcfbeed2/play-services-stats-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/1d216595fb0a9778c2c19857462cfd8f/play-services-ads-identifier-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/57c1ead65e134b2a5401cabb49ec30c4/play-services-basement-15.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/dedf3e7da68a8c9bea640f4cf3452a42/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b3e8ebae2ca81843420b3a41fbd8fd5c/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/fd46f78b2d2faea69a9437e663933c5b/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/8200814505bf6fd08e0182457a4dc6d5/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e0186b47134807482ff4faf3f334f39d/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/9a4adc2668f5953193ed25524f0901b6/customtabs-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a0a74d4d66e164cbb6571e9fd1507cf5/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/0d97a51754876e301956ffade81fa102/facebook-places-4.27.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/58845c3720e8934de70f46b9b6038f3a/facebook-applinks-4.27.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c3128e8712c5c3dc1e74f48054a685bf/facebook-messenger-4.27.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/83ee149790efb301b6d2fd69c5e0c2b1/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/84b14f90594b8a1e15d367bb63b5b21a/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/5794aef968d1ae0ddaa7a4bfea3fb4ad/play-services-measurement-base-15.0.2/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-firestore:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/7afa59ec7cbc60649296b73137476e09/firebase-ui-firestore-3.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-firestore:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/7afa59ec7cbc60649296b73137476e09/firebase-ui-firestore-3.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:7:5-41:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:15:5-74:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:15:5-74:19
+MERGED from [com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/4db0675965bfad18d93cc02b6adcf865/facebook-android-sdk-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/4db0675965bfad18d93cc02b6adcf865/facebook-android-sdk-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d9e5cf6db436a7440d7a96e2fcf5b7f7/facebook-login-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d9e5cf6db436a7440d7a96e2fcf5b7f7/facebook-login-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a7c16c529decb2f78b8eb2fe1573c81c/facebook-share-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a7c16c529decb2f78b8eb2fe1573c81c/facebook-share-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e82e2b33e0616469edfbed04c78db044/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e82e2b33e0616469edfbed04c78db044/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b49898c833129a7cfa7333f0819574a2/constraint-layout-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b49898c833129a7cfa7333f0819574a2/constraint-layout-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c43fb67ea803a6a85a66a6ccce3e0d18/recyclerview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c43fb67ea803a6a85a66a6ccce3e0d18/recyclerview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/69b9a8312bd8454efcdb64a33cee62cd/cardview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/69b9a8312bd8454efcdb64a33cee62cd/cardview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/ab9e9d61574727df73f17c00ec5442d9/firebase-core-15.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/ab9e9d61574727df73f17c00ec5442d9/firebase-core-15.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-config:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/caa6776aea800a439f91489869cec0cd/firebase-config-15.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/caa6776aea800a439f91489869cec0cd/firebase-config-15.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:30:5-20
+MERGED from [com.android.support:transition:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/53f4c7909703aed8e0305608a197d5ee/transition-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/53f4c7909703aed8e0305608a197d5ee/transition-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/faaa27b013dad0b53404af4a5fec8fd6/play-services-phenotype-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/faaa27b013dad0b53404af4a5fec8fd6/play-services-phenotype-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/33916de4fccdefcfbdbc190dc7bf9e3c/firebase-iid-interop-15.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/33916de4fccdefcfbdbc190dc7bf9e3c/firebase-iid-interop-15.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/dd38a6677c4d57dff41faee99b5e69c9/play-services-tasks-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/dd38a6677c4d57dff41faee99b5e69c9/play-services-tasks-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/11a5134e901709b7e685c876fcfbeed2/play-services-stats-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/11a5134e901709b7e685c876fcfbeed2/play-services-stats-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/1d216595fb0a9778c2c19857462cfd8f/play-services-ads-identifier-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/1d216595fb0a9778c2c19857462cfd8f/play-services-ads-identifier-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/57c1ead65e134b2a5401cabb49ec30c4/play-services-basement-15.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/57c1ead65e134b2a5401cabb49ec30c4/play-services-basement-15.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/dedf3e7da68a8c9bea640f4cf3452a42/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/dedf3e7da68a8c9bea640f4cf3452a42/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b3e8ebae2ca81843420b3a41fbd8fd5c/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b3e8ebae2ca81843420b3a41fbd8fd5c/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/fd46f78b2d2faea69a9437e663933c5b/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/fd46f78b2d2faea69a9437e663933c5b/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:24:5-30:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/8200814505bf6fd08e0182457a4dc6d5/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/8200814505bf6fd08e0182457a4dc6d5/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e0186b47134807482ff4faf3f334f39d/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e0186b47134807482ff4faf3f334f39d/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/9a4adc2668f5953193ed25524f0901b6/customtabs-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/9a4adc2668f5953193ed25524f0901b6/customtabs-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a0a74d4d66e164cbb6571e9fd1507cf5/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a0a74d4d66e164cbb6571e9fd1507cf5/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/0d97a51754876e301956ffade81fa102/facebook-places-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/0d97a51754876e301956ffade81fa102/facebook-places-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/58845c3720e8934de70f46b9b6038f3a/facebook-applinks-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/58845c3720e8934de70f46b9b6038f3a/facebook-applinks-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c3128e8712c5c3dc1e74f48054a685bf/facebook-messenger-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c3128e8712c5c3dc1e74f48054a685bf/facebook-messenger-4.27.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:28:5-43:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/83ee149790efb301b6d2fd69c5e0c2b1/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/83ee149790efb301b6d2fd69c5e0c2b1/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/84b14f90594b8a1e15d367bb63b5b21a/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/84b14f90594b8a1e15d367bb63b5b21a/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/5794aef968d1ae0ddaa7a4bfea3fb4ad/play-services-measurement-base-15.0.2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/5794aef968d1ae0ddaa7a4bfea3fb4ad/play-services-measurement-base-15.0.2/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.company.servicelaptoponline.GuideActivity
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:theme
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:15:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.company.servicelaptoponline.CenterActivity
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:23:9-26:59
+	android:parentActivityName
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:26:13-56
+	android:label
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:25:13-43
+	android:name
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:24:13-43
+activity#com.company.servicelaptoponline.ArticleActivity
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:27:9-30:59
+	android:parentActivityName
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:30:13-56
+	android:label
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:29:13-43
+	android:name
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:28:13-44
+activity#com.company.servicelaptoponline.DetailCenter
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:31:9-34:50
+	android:parentActivityName
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:33:13-57
+	android:theme
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:34:13-47
+	android:name
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:32:13-41
+activity#com.company.servicelaptoponline.MainActivity
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:35:9-37:44
+	android:theme
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:37:13-41
+	android:name
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:36:13-41
+activity#com.company.servicelaptoponline.DetailArticle
+ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:38:9-40:61
+	android:parentActivityName
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:40:13-58
+	android:name
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml:39:13-42
+uses-sdk
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/4db0675965bfad18d93cc02b6adcf865/facebook-android-sdk-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/4db0675965bfad18d93cc02b6adcf865/facebook-android-sdk-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d9e5cf6db436a7440d7a96e2fcf5b7f7/facebook-login-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d9e5cf6db436a7440d7a96e2fcf5b7f7/facebook-login-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a7c16c529decb2f78b8eb2fe1573c81c/facebook-share-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a7c16c529decb2f78b8eb2fe1573c81c/facebook-share-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e82e2b33e0616469edfbed04c78db044/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e82e2b33e0616469edfbed04c78db044/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b49898c833129a7cfa7333f0819574a2/constraint-layout-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b49898c833129a7cfa7333f0819574a2/constraint-layout-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebaseui:firebase-ui-firestore:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/7afa59ec7cbc60649296b73137476e09/firebase-ui-firestore-3.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-firestore:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/7afa59ec7cbc60649296b73137476e09/firebase-ui-firestore-3.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/0966b9da031826ad5b636a572ff7f2d5/firebase-ui-common-3.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-common:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/0966b9da031826ad5b636a572ff7f2d5/firebase-ui-common-3.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c43fb67ea803a6a85a66a6ccce3e0d18/recyclerview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c43fb67ea803a6a85a66a6ccce3e0d18/recyclerview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/69b9a8312bd8454efcdb64a33cee62cd/cardview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/69b9a8312bd8454efcdb64a33cee62cd/cardview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/bc7ed9f6d08bb1a36dfcea33f5420fcf/firebase-firestore-15.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/bc7ed9f6d08bb1a36dfcea33f5420fcf/firebase-firestore-15.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/ab9e9d61574727df73f17c00ec5442d9/firebase-core-15.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/ab9e9d61574727df73f17c00ec5442d9/firebase-core-15.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b33044fc462edadd4a1a0aa22ac1ea90/firebase-storage-15.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b33044fc462edadd4a1a0aa22ac1ea90/firebase-storage-15.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-config:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/caa6776aea800a439f91489869cec0cd/firebase-config-15.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/caa6776aea800a439f91489869cec0cd/firebase-config-15.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/53f4c7909703aed8e0305608a197d5ee/transition-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/53f4c7909703aed8e0305608a197d5ee/transition-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-abt:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/3c59d0a871ba4ad709654d0bba51fbc2/firebase-abt-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/3c59d0a871ba4ad709654d0bba51fbc2/firebase-abt-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/002f2b3e46f352304e9f33c297c01e5e/play-services-flags-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/002f2b3e46f352304e9f33c297c01e5e/play-services-flags-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/faaa27b013dad0b53404af4a5fec8fd6/play-services-phenotype-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/faaa27b013dad0b53404af4a5fec8fd6/play-services-phenotype-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/e59c6af65949c601e9fb2d04a5b131db/play-services-auth-api-phone-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/e59c6af65949c601e9fb2d04a5b131db/play-services-auth-api-phone-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/3b99c6c7c1a703e6ca6c5eacf6ff4922/play-services-auth-base-15.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/3b99c6c7c1a703e6ca6c5eacf6ff4922/play-services-auth-base-15.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/33916de4fccdefcfbdbc190dc7bf9e3c/firebase-iid-interop-15.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/33916de4fccdefcfbdbc190dc7bf9e3c/firebase-iid-interop-15.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/dd38a6677c4d57dff41faee99b5e69c9/play-services-tasks-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/dd38a6677c4d57dff41faee99b5e69c9/play-services-tasks-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/913dc22c762c21ebf9a1094d182a367d/firebase-database-collection-15.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/913dc22c762c21ebf9a1094d182a367d/firebase-database-collection-15.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/fc4da4fb5c4cff907291d3cdf2e3799a/firebase-storage-common-15.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/fc4da4fb5c4cff907291d3cdf2e3799a/firebase-storage-common-15.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/11a5134e901709b7e685c876fcfbeed2/play-services-stats-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/11a5134e901709b7e685c876fcfbeed2/play-services-stats-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/1d216595fb0a9778c2c19857462cfd8f/play-services-ads-identifier-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/1d216595fb0a9778c2c19857462cfd8f/play-services-ads-identifier-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/57c1ead65e134b2a5401cabb49ec30c4/play-services-basement-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/57c1ead65e134b2a5401cabb49ec30c4/play-services-basement-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/dedf3e7da68a8c9bea640f4cf3452a42/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/dedf3e7da68a8c9bea640f4cf3452a42/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b3e8ebae2ca81843420b3a41fbd8fd5c/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b3e8ebae2ca81843420b3a41fbd8fd5c/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/fd46f78b2d2faea69a9437e663933c5b/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/fd46f78b2d2faea69a9437e663933c5b/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/8200814505bf6fd08e0182457a4dc6d5/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/8200814505bf6fd08e0182457a4dc6d5/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e0186b47134807482ff4faf3f334f39d/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e0186b47134807482ff4faf3f334f39d/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/9a4adc2668f5953193ed25524f0901b6/customtabs-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/9a4adc2668f5953193ed25524f0901b6/customtabs-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a0a74d4d66e164cbb6571e9fd1507cf5/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a0a74d4d66e164cbb6571e9fd1507cf5/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/0d97a51754876e301956ffade81fa102/facebook-places-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/0d97a51754876e301956ffade81fa102/facebook-places-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/58845c3720e8934de70f46b9b6038f3a/facebook-applinks-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/58845c3720e8934de70f46b9b6038f3a/facebook-applinks-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c3128e8712c5c3dc1e74f48054a685bf/facebook-messenger-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c3128e8712c5c3dc1e74f48054a685bf/facebook-messenger-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/83ee149790efb301b6d2fd69c5e0c2b1/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/83ee149790efb301b6d2fd69c5e0c2b1/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/84b14f90594b8a1e15d367bb63b5b21a/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/84b14f90594b8a1e15d367bb63b5b21a/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/5794aef968d1ae0ddaa7a4bfea3fb4ad/play-services-measurement-base-15.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/5794aef968d1ae0ddaa7a4bfea3fb4ad/play-services-measurement-base-15.0.2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fara/Documents/BINUS/SEM1/P2/PROGRAMMING/TUGAS/ServiceLaptopOnline/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/57c1ead65e134b2a5401cabb49ec30c4/play-services-basement-15.0.1/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/57c1ead65e134b2a5401cabb49ec30c4/play-services-basement-15.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:20:13-58
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:22:9-24:36
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:24:13-33
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:23:13-68
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:26:9-30:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:29:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:28:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:30:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:27:13-64
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:31:9-34:75
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:34:13-72
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:32:13-81
+activity#com.firebase.ui.auth.ui.email.RegisterEmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:35:9-38:59
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:38:13-56
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:36:13-79
+activity#com.firebase.ui.auth.ui.phone.PhoneVerificationActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:39:9-43:64
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:42:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:43:13-61
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:40:13-83
+activity#com.firebase.ui.auth.ui.accountlink.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:44:9-47:73
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:47:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:45:13-84
+activity#com.firebase.ui.auth.ui.accountlink.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:48:9-51:78
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:51:13-75
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:49:13-89
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:52:9-55:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:55:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:53:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:56:9-60:48
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:59:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:60:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:58:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:57:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:61:9-73:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:63:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:62:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:65:13-72:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:66:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:68:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:68:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:69:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:69:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:71:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/d09dc61efa2719e009e5b90c76497b2d/firebase-ui-auth-3.0.0/AndroidManifest.xml:71:23-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e82e2b33e0616469edfbed04c78db044/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e82e2b33e0616469edfbed04c78db044/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c43fb67ea803a6a85a66a6ccce3e0d18/recyclerview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/c43fb67ea803a6a85a66a6ccce3e0d18/recyclerview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/69b9a8312bd8454efcdb64a33cee62cd/cardview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/69b9a8312bd8454efcdb64a33cee62cd/cardview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/53f4c7909703aed8e0305608a197d5ee/transition-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/53f4c7909703aed8e0305608a197d5ee/transition-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/dedf3e7da68a8c9bea640f4cf3452a42/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/dedf3e7da68a8c9bea640f4cf3452a42/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b3e8ebae2ca81843420b3a41fbd8fd5c/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/b3e8ebae2ca81843420b3a41fbd8fd5c/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/fd46f78b2d2faea69a9437e663933c5b/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/fd46f78b2d2faea69a9437e663933c5b/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/8200814505bf6fd08e0182457a4dc6d5/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/8200814505bf6fd08e0182457a4dc6d5/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e0186b47134807482ff4faf3f334f39d/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/e0186b47134807482ff4faf3f334f39d/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/9a4adc2668f5953193ed25524f0901b6/customtabs-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/9a4adc2668f5953193ed25524f0901b6/customtabs-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a0a74d4d66e164cbb6571e9fd1507cf5/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/a0a74d4d66e164cbb6571e9fd1507cf5/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/83ee149790efb301b6d2fd69c5e0c2b1/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/83ee149790efb301b6d2fd69c5e0c2b1/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/84b14f90594b8a1e15d367bb63b5b21a/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/84b14f90594b8a1e15d367bb63b5b21a/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/808aa07bd5e42dfd491babc4cca4958a/design-26.1.0/AndroidManifest.xml:27:13-51
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/51568d86102092d01c32ae474454cd77/facebook-common-4.27.0/AndroidManifest.xml:33:19-68
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/baaf02597f177149806066c071a6dd62/firebase-auth-15.0.0/AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd88b1c79d0d136dfb8f356a9cebc8cb/play-services-auth-15.0.0/AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/add5127401d48242898247dcf38d8357/play-services-maps-15.0.0/AndroidManifest.xml:28:9-32
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/23872cd82caf071fd29f27b231e4d92f/firebase-analytics-impl-15.0.2/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/fara/.gradle/caches/transforms-2/files-2.1/cd7d3ae358359ec92944e746d95d9b5c/firebase-analytics-15.0.2/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:29:9-63
+permission#id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:32:22-76
+uses-permission#id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:32:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:35:18-89
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:48:27-58
+category#id.sch.smktelkom_mlg.afinal.xirpl3060724.servicelaptoponline
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/15825be7504cdbb5ba2f130079f55db7/firebase-iid-15.1.0/AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/bee56d81de0e464874ad62e07ba4a77c/firebase-common-15.0.1/AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/fara/.gradle/caches/transforms-2/files-2.1/b9ccfc16c60dbc57dd1629384c25fcca/play-services-base-15.0.1/AndroidManifest.xml:24:13-79
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/945f46586df8b030ab15d2225ce016d0/extensions-1.0.0-beta1/AndroidManifest.xml:26:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/6bda3e89c9d617207fc8b925bad6705a/facebook-core-4.27.0/AndroidManifest.xml:40:13-70
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/fara/.gradle/caches/transforms-2/files-2.1/2bb36914dcc774041d9f80deff6f22c7/runtime-1.0.0/AndroidManifest.xml:26:13-58
+meta-data#android.arch.core.VERSION
+ADDED from [android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.core:runtime:1.0.0-beta1] /Users/fara/.gradle/caches/transforms-2/files-2.1/d7413d048aa12d09c191335203a3d50a/runtime-1.0.0-beta1/AndroidManifest.xml:26:13-53
